@@ -13,8 +13,8 @@ The script perform the following operations"
 
 <b>Encrypted file:</b>
 
-![2](https://github.com/icon5730/Rot13/assets/166230648/4b62beaa-2fbe-4eb2-8d21-836535df1eb0)
+![2](https://github.com/icon5730/Rot13/assets/166230648/f1b9678e-ee75-4ebf-aca0-d8ee4a7d483b)
 
 <b>Decrypted file:</b>
 
-![3](https://github.com/icon5730/Rot13/assets/166230648/53ef241d-f126-4a24-a1b3-186cbfd0f1e9)
+![3](https://github.com/icon5730/Rot13/assets/166230648/da3be44f-8202-4cc5-9213-e2a055adf46b)
