@@ -14,7 +14,7 @@ printf $endcolor
 
 
 function pathtest(){
-read -p "$(echo -e "\n$cyan[?]$endcolor$yellow Please specify an image path of the file you wish to encrypt/decrypt: $endcolor")" path
+read -p "$(echo -e "\n$cyan[?]$endcolor$yellow Please specify the path of the file you wish to encrypt/decrypt: $endcolor")" path
 if [ -f $path ];
                 then
                 echo -e "$green[!] Path contains a file$endcolor\n"
