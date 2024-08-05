@@ -1,6 +1,6 @@
 A simple Bash script that encrypts and decrypts files with Rot13.
 
-The script perform the following operations"
+The script perform the following operations:
 - Asks the user for a file path and checks that a file is indeed located in said path.
 - Asks the user whether they would like to encrypt or decrypt the file with Rot13.
 - Asks the user to name the output file.
