@@ -9,12 +9,16 @@ The script perform the following operations:
 
 <b>Full script run:</b>
 
-![1](https://github.com/icon5730/Rot13/assets/166230648/8164f0cd-0f8a-4ca1-998d-caaab47ad916)
+![1](https://github.com/user-attachments/assets/361900f0-171e-4193-8a05-72693b794bdc)
 
 <b>Encrypted file:</b>
 
-![2](https://github.com/icon5730/Rot13/assets/166230648/f1b9678e-ee75-4ebf-aca0-d8ee4a7d483b)
+![2](https://github.com/user-attachments/assets/9f4f11e4-2848-4ed9-9d84-f4690318fefb)
 
 <b>Decrypted file:</b>
 
-![3](https://github.com/icon5730/Rot13/assets/166230648/da3be44f-8202-4cc5-9213-e2a055adf46b)
+![3](https://github.com/user-attachments/assets/d6dc2a6f-595c-4a07-a19e-26be732f7cd9)
+
+<b>Original File (ExampleText):</b>
+
+![4](https://github.com/user-attachments/assets/a5d767b4-3105-4f81-8e05-f1edbd6f55d3)
