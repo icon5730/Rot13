@@ -9,7 +9,7 @@ The script perform the following operations:
 
 <b>Full script run:</b>
 
-![1](https://github.com/user-attachments/assets/361900f0-171e-4193-8a05-72693b794bdc)
+![1](https://github.com/user-attachments/assets/ecaecb33-8623-4b44-89ee-7fc7f422e327)
 
 <b>Encrypted file:</b>
 
